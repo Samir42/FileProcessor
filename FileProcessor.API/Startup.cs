@@ -37,6 +37,7 @@ namespace FileProcessor.API
 
             services.AddScoped<ILoggedInUserService, LoggedInUserService>();
             services.AddScoped<IUploadService, UploadService>();
+            services.AddScoped<IImportService, ImportService>();
 
             services.AddControllers();
 
