@@ -1,0 +1,17 @@
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Application.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.csprojAssemblyReference.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.AssemblyInfoInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.AssemblyInfo.cs
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Identity.deps.json
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Identity.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Identity.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Application.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.csproj.CoreCompileInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.csproj.CopyComplete
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Identity.runtimeconfig.json
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Identity.runtimeconfig.dev.json
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\obj\Debug\netcoreapp3.1\FileProcessor.Identity.genruntimeconfig.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Domain.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Identity\bin\Debug\netcoreapp3.1\FileProcessor.Domain.pdb

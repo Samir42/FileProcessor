@@ -1,0 +1,14 @@
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Persistence.deps.json
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Persistence.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Persistence.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Application.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Domain.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Application.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\bin\Debug\netstandard2.1\FileProcessor.Domain.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.csprojAssemblyReference.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.AssemblyInfoInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.AssemblyInfo.cs
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.csproj.CopyComplete
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Persistence\obj\Debug\netstandard2.1\FileProcessor.Persistence.pdb

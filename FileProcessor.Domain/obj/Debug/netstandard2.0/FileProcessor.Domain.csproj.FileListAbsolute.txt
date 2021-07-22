@@ -1,0 +1,8 @@
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.deps.json
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\bin\Debug\netstandard2.0\FileProcessor.Domain.pdb
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfoInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.AssemblyInfo.cs
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.dll
+C:\Users\msi-\source\repos\FileProcessor\FileProcessor.Domain\obj\Debug\netstandard2.0\FileProcessor.Domain.pdb
